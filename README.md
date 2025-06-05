@@ -11,7 +11,7 @@
 
   # Ecran de chat avec un LLM:
 
-  ![Screenshot 2025-06-05 020220](https://github.com/user-    attachments/assets/3519107e-0392-4075-bf56-18a54696a0ce)
+  ![Screenshot 2025-06-05 020220](https://github.com/user-attachments/assets/3f4b08f7-924a-46f2-94f3-0a976677e88b)
 
  ![Screenshot 2025-06-05 021451](https://github.com/user-attachments/assets/bbe602ff-2024-443f-bd07-cf05df162b65)
  
